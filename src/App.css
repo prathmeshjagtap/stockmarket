@@ -106,4 +106,10 @@ h5 {
     right: 0rem;
     margin: auto;
   }
+  input {
+    width: fit-content;
+  }
+  button {
+    width: fit-content;
+  }
 }
