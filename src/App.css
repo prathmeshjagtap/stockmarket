@@ -95,3 +95,15 @@ h5 {
 .icon:hover {
   color: #ff961f;
 }
+
+@media screen and (max-width: 768px) {
+  .stockImage {
+    width: fit-content;
+    max-width: 250px;
+    max-height: 250px;
+    position: static;
+    top: 0rem;
+    right: 0rem;
+    margin: auto;
+  }
+}
