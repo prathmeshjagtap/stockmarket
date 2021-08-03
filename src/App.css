@@ -98,13 +98,7 @@ h5 {
 
 @media screen and (max-width: 768px) {
   .stockImage {
-    width: fit-content;
-    max-width: 250px;
-    max-height: 250px;
-    position: static;
-    top: 0rem;
-    right: 0rem;
-    margin: auto;
+    display: none;
   }
   input {
     width: fit-content;
