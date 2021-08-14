@@ -95,6 +95,9 @@ h5 {
 .icon:hover {
   color: #ff961f;
 }
+.output {
+  color: red;
+}
 
 @media screen and (max-width: 768px) {
   .stockImage {

@@ -79,7 +79,7 @@ function App() {
           />
           <button type="submit">Check</button>
         </form>
-        <h2>{output}</h2>
+        <h2 className="output">{output}</h2>
         <img className="stockImage" alt="" src={stockImage} />
       </div>
       <footer>
@@ -114,7 +114,7 @@ function App() {
               size="2x"
             />
           </a>
-          <a href="https://prathmesh-jagtap.netlify.app/">
+          <a href="https://jagtap-prathmesh.netlify.app/">
             <FontAwesomeIcon className="icon" icon="user-circle" size="2x" />
           </a>
 
